@@ -9,7 +9,7 @@ A new Flutter project.
 
 | Date created  |     Name      | Status |  Functionality |
 | ------------- | ---------------|  -------------| -------------|
-| 2019-06-25 | startup_namer   | works | Prototype code to test Flutter frmework in VSCode using dart  |
+| 2019-06-25 | startup_namer   | works | Prototype code to test Flutter framework in VSCode using dart.  |
 |  |  |  |  | 
 
 
