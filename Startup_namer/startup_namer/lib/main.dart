@@ -1,5 +1,5 @@
-
-
+// Run in debugger to launch virtualized Pixel
+// It'll take a minute to load.
 
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
